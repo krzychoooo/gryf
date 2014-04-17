@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.1
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Bundle-Name: Gryf
+Bundle-Version: 1.00RCc
+Bundle-Date: 2014-03-04 22:49:01 CET
+Implementation-Title: Gryf
+Implementation-Version: 1.00RCc
+Implementation-URL: krzysztofklimas@interia.pl
+

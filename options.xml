@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_45" class="java.beans.XMLDecoder">
+ <object class="gryf.Options">
+  <void property="boudRate">
+   <int>2400</int>
+  </void>
+  <void property="comNumber">
+   <string>COM4</string>
+  </void>
+  <void property="typFrame">
+   <int>1</int>
+  </void>
+ </object>
+</java>
